@@ -42,8 +42,8 @@ The Project consist of 2 folders:
 
 You will be building a system to rate dogs based on the [Dog CEO API](https://dog.ceo/dog-api/documentation/).
 
-- Users need to be able to browse all the breeds available
-- Able to view random dogs, either overall or by breeds
+- Users need to be able to browse all the breeds available on the Dog CEO API
+- Able to view random dogs, either overall or by breeds from Dog CEO API
 - Can add dogs to my favorite list
 - Can add a rating to the dog
 - Can see the overall rating of the dog
