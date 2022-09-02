@@ -8,21 +8,20 @@ You are free to use a different design system or a different Frontend framework 
 
 
 # Exercise:
-1. [ ] Get and display the list of breeds available
-2. [ ] View a random dog from a specific breed
+1. [ ] Get and display the list of breeds available on dog.ceo api
+2. [ ] View a random dog from a specific breed from dog.ceo api
 3. [ ] Add a rating to a dog
-4. [ ] View a dog existing overall rating
+4. [ ] View a dog existing overall rating (this will be the average rating from all the users for this dog)
 5. [ ] Add a dog to favorite
 6. [ ] View all the favorite dog from a user
-7. [ ] Ability to sort/filter dogs based on a rating
+7. [ ] Ability to sort/filter dogs based on a rating (this might need some backend work as well)
 
 
 ## Bonus tasks
 1. [ ] Add authentication
-2. [ ] View multiple random dogs at once
+2. [ ] View multiple random dogs at once taken from dog.ceo
 3. [ ] Make UI nicer
-4. [ ] Get available locations based on browsers location
-5. [ ] Add [Components unit testing](https://vuejs.org/guide/scaling-up/testing.html#component-testing) using the
+5. [ ] Add [Components unit testing](https://reactjs.org/docs/testing.html) using the
    testing framework of your choice
 
 
