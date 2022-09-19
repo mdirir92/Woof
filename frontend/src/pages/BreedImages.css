@@ -1,0 +1,12 @@
+.breed-maincontainer {
+  text-align: center;
+}
+.breed-maincontainer h1 {
+  text-transform: capitalize;
+}
+.breed-images-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 20px 0;
+}

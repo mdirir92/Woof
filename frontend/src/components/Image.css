@@ -1,0 +1,18 @@
+.img-ctn {
+  position: relative;
+}
+.breed-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.rating-ctn {
+  margin: 10px 0;
+}
+.heart-icon {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  color: red;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.breed-item {
+  background-color: #ecfbff;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+.breed-item:hover {
+  background-color: #61dafb;
+  color: #fff;
+}
+
+.breed-item p {
+  text-transform: capitalize;
+}

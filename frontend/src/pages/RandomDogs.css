@@ -1,0 +1,31 @@
+.random-mainContainer {
+  text-align: center;
+}
+.random-image-container {
+  position: relative;
+  margin: 20px auto;
+  width: fit-content;
+}
+.heat-icon {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  color: red;
+  cursor: pointer;
+}
+.ctn h1 {
+  text-transform: capitalize;
+}
+.random-image {
+  width: auto;
+  height: 350px;
+  object-fit: cover;
+}
+.actions-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: fit-content;
+  margin: 0 auto;
+}
