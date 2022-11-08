@@ -1,6 +1,6 @@
 # Introduction:
 
-This project usse Express with [Mongoose](https://mongoosejs.com/), 
+This project uses Express with [Mongoose](https://mongoosejs.com/), 
 
 # Steps taken:
 
